@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burnf\\source\\repos\\ClassLibraryPrOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5FA3AD-3751-4D08-AA37-9059F05966A1}|ClassLibraryPrOne\\ClassLibraryPrOne.csproj|c:\\users\\burnf\\source\\repos\\classlibraryprone\\classlibraryprone\\actionbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5FA3AD-3751-4D08-AA37-9059F05966A1}|ClassLibraryPrOne\\ClassLibraryPrOne.csproj|solutionrelative:classlibraryprone\\actionbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5FA3AD-3751-4D08-AA37-9059F05966A1}|ClassLibraryPrOne\\ClassLibraryPrOne.csproj|c:\\users\\burnf\\source\\repos\\classlibraryprone\\classlibraryprone\\actionfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5FA3AD-3751-4D08-AA37-9059F05966A1}|ClassLibraryPrOne\\ClassLibraryPrOne.csproj|solutionrelative:classlibraryprone\\actionfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5FA3AD-3751-4D08-AA37-9059F05966A1}|ClassLibraryPrOne\\ClassLibraryPrOne.csproj|c:\\users\\burnf\\source\\repos\\classlibraryprone\\classlibraryprone\\actiontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5FA3AD-3751-4D08-AA37-9059F05966A1}|ClassLibraryPrOne\\ClassLibraryPrOne.csproj|solutionrelative:classlibraryprone\\actiontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActionFileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ClassLibraryPrOne\\ClassLibraryPrOne\\ActionFileSystem.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPrOne\\ActionFileSystem.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ClassLibraryPrOne\\ClassLibraryPrOne\\ActionFileSystem.cs",
+              "RelativeToolTip": "ClassLibraryPrOne\\ActionFileSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:49:19.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionText.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ClassLibraryPrOne\\ClassLibraryPrOne\\ActionText.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPrOne\\ActionText.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ClassLibraryPrOne\\ClassLibraryPrOne\\ActionText.cs",
+              "RelativeToolTip": "ClassLibraryPrOne\\ActionText.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:34:47.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActionBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\burnf\\source\\repos\\ClassLibraryPrOne\\ClassLibraryPrOne\\ActionBuffer.cs",
+              "RelativeDocumentMoniker": "ClassLibraryPrOne\\ActionBuffer.cs",
+              "ToolTip": "C:\\Users\\burnf\\source\\repos\\ClassLibraryPrOne\\ClassLibraryPrOne\\ActionBuffer.cs",
+              "RelativeToolTip": "ClassLibraryPrOne\\ActionBuffer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:29:49.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
